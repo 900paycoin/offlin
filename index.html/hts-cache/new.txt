@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:21:40	434/434	---M--	302	error ('Found')	text/html	date:Sun,%2001%20Jun%202025%2014:21:31%20GMT	https://pointcom.centipidtechnologies.com/	C:/My%20Web%20Sites/hh/pointcom.centipidtechnologies.com/index.html	(from )
+15:21:41	26/26	---M--	200	added ('OK')	text/plain	etag:%22daahoo3u641sq%22	https://pointcom.centipidtechnologies.com/robots.txt		(from )
